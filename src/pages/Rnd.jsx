@@ -2,7 +2,7 @@ import React, { useEffect, useRef } from 'react';
 import { Factory, FlaskConical, Microscope, ClipboardCheck } from 'lucide-react';
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
-import rndVideo from '../assets/videos/Other video 4.mp4';
+import rndVideo from '../assets/videos/Other-video-4.mp4';
 
 gsap.registerPlugin(ScrollTrigger);
 

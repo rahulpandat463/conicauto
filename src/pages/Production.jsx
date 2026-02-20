@@ -2,9 +2,9 @@ import React, { useEffect, useRef } from 'react';
 import { Factory, CheckCircle, Clock, Truck } from 'lucide-react';
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
-import video1 from '../assets/videos/Other video 3.mp4';
-import video3 from '../assets/videos/Other Video 2 - Copy.mp4';
-import video4 from '../assets/videos/Other video 4.mp4';
+import video1 from '../assets/videos/Other-video-3.mp4';
+import video3 from '../assets/videos/Other-Video-2-Copy.mp4';
+import video4 from '../assets/videos/Other-video-4.mp4';
 import productionImage from "../assets/images/vision.jpg";
 
 gsap.registerPlugin(ScrollTrigger);
