@@ -1,5 +1,5 @@
 import React from 'react';
-import historyVideo from '../assets/videos/Other video1.mp4';
+import historyVideo from '../assets/videos/Other-video1.mp4';
 import historyImage from '../assets/images/history(1).jpg';
 
 const History = () => {
